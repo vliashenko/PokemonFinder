@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PokemonFinder/static/css/main.461a5d72.css",
+    "main.js": "/PokemonFinder/static/js/main.552ce0a8.js",
+    "static/media/backgroundCard2.jpg": "/PokemonFinder/static/media/backgroundCard2.9064b2a1f85f71ce6f6e.jpg",
+    "static/media/backgroundCard1.jpg": "/PokemonFinder/static/media/backgroundCard1.a613cb19fa55a8d2fdc7.jpg",
+    "static/media/backgroundCard.jpg": "/PokemonFinder/static/media/backgroundCard.9308f6155c82079a0e17.jpg",
+    "static/media/errorView.jpg": "/PokemonFinder/static/media/errorView.d41e5b99c0e5ecdc5e05.jpg",
+    "index.html": "/PokemonFinder/index.html",
+    "main.461a5d72.css.map": "/PokemonFinder/static/css/main.461a5d72.css.map",
+    "main.552ce0a8.js.map": "/PokemonFinder/static/js/main.552ce0a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.461a5d72.css",
+    "static/js/main.552ce0a8.js"
+  ]
+}
