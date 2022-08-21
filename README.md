@@ -1,5 +1,5 @@
 PokemoFinder App.<br>
-Tech: React.js, styled-components, state-machine, Rest API pokemonapi.<br>
+Tech: React.js, pokemonapi.<br>
 Tools: react-toastify, react-icons. <br>
 
 
