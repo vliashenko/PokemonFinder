@@ -1,12 +1,13 @@
 import styled, { keyframes } from "styled-components";
 
-export const Container = styled.div`
+export const SContainer = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #fff;
 `;
 
-export const Text = styled.p`
+export const SText = styled.p`
     margin-left: 10px;
     font-size: 24px;
 `;
@@ -20,6 +21,6 @@ const animation = keyframes`
     }
 `;
 
-export const IconContainer = styled.div`
+export const SIconContainer = styled.div`
     animation: ${animation} 2s infinite linear;
 `;

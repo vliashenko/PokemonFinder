@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const Container = styled.div`
+export const SContainer = styled.div`
     width: 600px;
     margin: 30px auto;
     padding: 20px;
@@ -10,9 +10,10 @@ export const Container = styled.div`
     justify-content: center;
     box-shadow: 0px 1px 18px #e8e8e8;
     border-radius: 5px;
+    background-color: #fff;
 `;
 
-export const Title = styled.p`
+export const STitle = styled.p`
     text-align: center;
     font-size: 28px;
     font-weight: 600;

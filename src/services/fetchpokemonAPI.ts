@@ -1,5 +1,5 @@
-export const fetchPokemonAPI = (name) => {
-    return fetch("https://pokeapi.co/api/v2/pokemon/" + name) 
+export const fetchPokemonAPI = async (name: string) => {
+    return await fetch("https://pokeapi.co/api/v2/pokemon/" + name) 
         .then(res => {
             if(res.ok) {
                 return res.json()

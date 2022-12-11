@@ -1,6 +1,7 @@
 import styled from "styled-components";
+import { IDataStyled } from './types'
 
-export const Container = styled.div`
+export const SContainer = styled.div<IDataStyled>`
     width: 390px;
     padding: 15px 22px;
     margin: 20px 0;
@@ -16,12 +17,12 @@ export const Container = styled.div`
     background-size: cover;
 `;
 
-export const Image = styled.img`
+export const SImage = styled.img`
     width: 240px;
     height: auto;
 `;
 
-export const SkillList = styled.ul`
+export const SSkillList = styled.ul`
     width: 340px;
     border-radius: 10px;
     margin: 10px 0;
@@ -32,7 +33,7 @@ export const SkillList = styled.ul`
     background-color: rgb(0,0,0,0.4);
 `;
 
-export const SkillItem = styled.li`
+export const SSkillItem = styled.li`
     margin: 10px 0;
     font-size: 24px;
     font-weight: 600;

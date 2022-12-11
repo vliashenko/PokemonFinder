@@ -41,4 +41,6 @@ body {
   font-family:'Comic Neue';
   font-weight: 300;
   scroll-behavior: smooth !important;
+  background: url("https://wallpaperaccess.com/full/8611.jpg");
+  background-position: center;
 }
